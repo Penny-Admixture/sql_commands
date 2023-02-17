@@ -1,4 +1,4 @@
-# sql_practice
+# sql_commands
 
 Exercises listed in https://github.com/WebDevSimplified/Learn-SQL
 
